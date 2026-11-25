@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The GPS's excuse, in its own voice: smug, defensive, blaming the map.
 // Fresh angle: the map is dated in the future, so the GPS is not lost,
 // just early — with a cornfield as the specific detail.
-// One line, plain text, 125 characters, well under the 200-character gate.
+// One line, plain text, 122 characters, well under the 200-character gate.
 //
 // Anchor (drand quicknet, quoted before the first write of this entry):
 // round 34261406, signature
